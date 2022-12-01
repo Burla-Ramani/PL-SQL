@@ -1,0 +1,5 @@
+
+select ename,dept,sal,hiredate from emp;
+select * from emp;
+SELECT DISTINCT dept FROM emp;
+
